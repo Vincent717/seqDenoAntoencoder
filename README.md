@@ -10,7 +10,7 @@ I have used
 * sequence denoising autoencoder
 
 To use them, just run
-# python xxx.py
+### python xxx.py
 
 It will print out the result.
 
